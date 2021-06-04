@@ -1,0 +1,90 @@
+.Cardsection{
+    display: inline-flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.Col1{
+    display: block;
+}
+
+.Col2{
+    display: block;
+}
+
+.SectionContainer{
+    display: inline-flex;
+    padding: 70px 40px;
+}
+
+.card{
+    background-color:#f6f4e6 ;
+    height: 200px;
+    width: 250px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.icon{
+    color: #f0a500;
+    padding: 5px 10px;
+    font-size: 40px;
+}
+
+.CardHd{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 0 10px;
+    margin: 2px;
+}
+
+.CardCnt{
+    font-size: 14px;
+    color: #cf7500;
+    font-weight: 600;
+    padding: 5px 10px;
+    align-self: center;
+}
+
+.Disc{
+    justify-content: center;
+    align-content: center;
+    padding: 80px 10px;
+}
+
+.heading{
+    font-size: 40px;
+    font-weight: 900;
+    padding: 30px 0;
+}
+
+.content{
+    font-size: 18px;
+    font-weight: 600;
+    padding: 20px 0;
+    line-height: 1.2;
+    color: #cf7500;
+    width: 80%;
+}
+
+.Learnmore{
+    padding: 5px 15px;
+    text-decoration: none;
+    background-color: #f0a500;
+    color: #fff;
+    border: none;
+    font-size: 20px;
+    font-weight: 900;
+    margin: 40px 0;
+    border-radius: 20px;
+}
+
+.Learnmore:hover{
+    background-color: #290001;
+    color: #ffffff;
+    padding: 10px 25px;
+}

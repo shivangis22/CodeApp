@@ -1,0 +1,59 @@
+.top{
+    background-image: url(./Images/TopBg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+    padding: 150px 0;
+}
+.rightsection{
+    width: fit-content;
+}
+.Teamimage{
+    width: 100%;
+    height: auto;
+}
+
+.leftsection{
+    padding: 100px 80px;
+    align-items: center;
+
+}
+
+.Heading{
+    font-size: 60px;
+    font-weight: 500;
+    font-family: 'Titan One', cursive;
+}
+
+.code{
+    color: #f0a500;
+    font-weight: 600;
+}
+
+.Subhd{
+    padding: 10px 0 100px 0;
+    font-size: 24px ;
+    font-weight: 800;
+}
+
+.Joinus{
+    text-decoration: none;
+    padding: 8px 12px;
+    background-color:#f0a500 ;
+    border: none;
+    border-radius: 20px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.Joinus:hover{
+    font-size: 24px;
+    background-color: #cf7500;
+    font-weight: 900;
+    border-radius: 30px;
+}

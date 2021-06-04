@@ -1,0 +1,12 @@
+.footer{
+    display: inline-flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 10px 2px;
+    align-items: center;
+}
+
+.ic{
+    font-size: 18px;
+    padding: 4px;
+}
